@@ -30,3 +30,6 @@ Neste repositório contém o arquivo notebook *ML_Formula1_IFSP.ipynb* com a sol
 - Sagemaker Canvas como experimento NO-CODE
 - Framework Well-Architected machine learning da AWS 
 (https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/well-architected-machine-learning.html)
+
+# Apresentação
+Devido ao tamanho do arquivo, não foi possível inseri-lo neste repositório, porém o mesmo pode ser acessado no link a seguir https://docs.google.com/presentation/d/1gSL6GKN2YgOdZdskPTa1dAJYDr12xfU3/edit?usp=sharing&ouid=110459252710040925144&rtpof=true&sd=true
