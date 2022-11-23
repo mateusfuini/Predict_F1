@@ -17,6 +17,15 @@ Ao obter dados históricos e usá-los para ensinar algoritmos de machine learnin
 ## Objetivo
 Através dos dados históricos de diferentes campeonatos de fórmula 1, criar um modelo de aprendizado de máquina que estime quem seria os pilotos com maiores pontuação e ganhadores na F1.
 
+# Soluções
+
+Os dados foram obtidos através da API do site ERGAST e via web scraping no wikipedia. No EDA exploramos as principais características que poderiam fazer diferença, como por exemplo o desempenho na chuva e a idade do piloto no momento da corrida. Testamos vários algoritmos de machine learning e o que teve o melhor desempenho foi o Gradient Boosting. Após a criação do modelo, foi criado um método que recebe como parâmetro o nome da corrida e as condições climáticas para predizer quais pilotos pontuariam nesta corrida.
+
+# Resultados
+
+Como teste, utilizamos o modelo para prever o resultado da etapa de Abu Dhabi, o qual teve muito sucesso nesta predição, acertando os dois primeiros resultados e algumas outras posições.
+
+
 # Organização do repositório
 
 Neste repositório contém o arquivo notebook *ML_Formula1_IFSP.ipynb* com a solução que foi executada no AWS Sagemaker, as pastas *datasets* e *models*, a primeira contém a base de dados e conjuntos de dados auxiliares gerados no notebook e a outra pasta contém o deploy do melhor modelo utilizado na solução e os dicionários gerados a partir do banco de dados que auxiliam na predição.
