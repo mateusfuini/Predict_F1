@@ -3,10 +3,6 @@
 ## Especialização em Ciência de Dados
 #### Projeto Interdisciplinar - 2o. Semestre
 
-Grupo:
-- Mateus Guilherme Fuini
-- Michelle Melo Cavalcante
-
 # Objetivo de Negócio
 
 Atualmente todas as equipes da Fórumal 1 (F1) utilizam de técnicas de Machine Learning em suas corridas. A própria empresa organizadora do campeonato usa dados recebidos dos carros e sensores na pista para interagir com os telespectadores. Segundo a AWS (https://aws.amazon.com/pt/f1/), cada carro possui cerca 300 sensores que geram cerca 1,1 milhão de pontos de dados por segundo, chegando a gerar mais 3Gb a cada volta por carro. Somando com os dados de outros setores da equipe, o volume de dados ultrapassa 40Tb a cada etapa do campeonato. Além de entretetimento, todos esses dados podem ser utilizados pelas equipes no planejamento e implementação de melhores estratégias de corrida, na busca de melhorar a performance dos pilotos e provocar transformações positivas no esporte. Com tantos insights, a ciência de dados tem se tornado uma das principais ferramentas da F1.
